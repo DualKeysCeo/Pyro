@@ -12,14 +12,14 @@
 ### Website
 Coming soon.
 
-### Future Plans
-- [x] Math function
-- [x] Change Credentials
+### Future Plans / Coming Soon
+- [x] Read and write to file function
 - [x] Morse code translator
+- [x] Change Credentials
+- [x] Math function
 - [ ] Finish stats function
 - [ ] Directory maniuplation
 - [ ] Come up with more functions
-- [ ] Read and write to file function
 
 ### How can you contribute?
 Apply for DualKeys [here!](https://dualkeys.ml/apply)
