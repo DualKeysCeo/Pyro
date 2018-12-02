@@ -1,4 +1,10 @@
-# Pyro v1.1
+# Pyro v1.2
+
+## Additions
+- [x] Read and write to file function
+- [x] Morse code translator
+- [x] Change Credentials
+- [x] Math function
 
 ### Requirements
 - Windows
@@ -13,11 +19,6 @@
 Coming soon.
 
 ### Future Plans / Coming Soon
-- [x] Read and write to file function
-- [x] Morse code translator
-- [x] Change Credentials
-- [x] Math function
-- [ ] Finish stats function
 - [ ] Directory maniuplation
 - [ ] Come up with more functions
 
